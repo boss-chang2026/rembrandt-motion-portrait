@@ -8,7 +8,15 @@
 
 ## 效果示例
 
-效果对比图放在 [examples](examples/) 文件夹，命名为 `编号-before` 与 `编号-after`。示例图仅用于展示风格，实际结果取决于原图和所用图片模型。
+左为原图，右为效果。示例仅用于展示风格，实际结果取决于原图和所用图片模型。更多说明见 [examples](examples/)。
+
+![白裙持相机](examples/01-before-after.jpg)
+
+![草帽回眸](examples/02-before-after.jpg)
+
+![门前园艺](examples/03-before-after.jpg)
+
+![歪头石凳](examples/04-before-after.jpg)
 
 ## 效果特点
 
