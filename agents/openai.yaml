@@ -1,0 +1,4 @@
+interface:
+  display_name: "伦勃朗拖影人像"
+  short_description: "为人像添加伦勃朗半脸强光、深邃暗调与独立后景速度拖影效果"
+  default_prompt: "Use $rembrandt-motion-portrait to apply realistic Rembrandt lighting and distinct blurred shadow echoes behind this portrait."
